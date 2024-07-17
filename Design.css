@@ -1,0 +1,54 @@
+/*Toute la page*/
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#m1{
+    background-image: url(Maths\ info.jpg);
+    text-align: center;
+    justify-items: auto;
+}
+/*Texte de l'accueil*/
+
+main{ 
+    padding: auto;
+    margin: 30px;
+    background-position: 100px;
+    background-repeat: repeat-x;
+    
+}
+/* Les liens qui interseptent */
+nav{ padding: auto;
+   text-align: center;
+   margin: auto;
+   
+   
+}
+a{
+    text-decoration: none;
+}
+#Menu{
+    
+    
+    align-items: center;
+    text-decoration-line: underline;
+    font-family: 'Times New Roman';
+    text-align:center;
+    font-style: oblique;
+    
+
+}
+li{ 
+    list-style-type: none;
+    
+    color: blue
+}
+ul{
+    
+    display: flex;
+    gap: 20px; 
+    background-image: url(image.png);
+    height: 20px;
+}
+
